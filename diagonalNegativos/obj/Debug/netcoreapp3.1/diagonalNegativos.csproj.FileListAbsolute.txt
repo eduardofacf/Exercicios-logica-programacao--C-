@@ -1,0 +1,13 @@
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\bin\Debug\netcoreapp3.1\diagonalNegativos.exe
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\bin\Debug\netcoreapp3.1\diagonalNegativos.deps.json
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\bin\Debug\netcoreapp3.1\diagonalNegativos.runtimeconfig.json
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\bin\Debug\netcoreapp3.1\diagonalNegativos.runtimeconfig.dev.json
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\bin\Debug\netcoreapp3.1\diagonalNegativos.dll
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\bin\Debug\netcoreapp3.1\diagonalNegativos.pdb
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\obj\Debug\netcoreapp3.1\diagonalNegativos.csprojAssemblyReference.cache
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\obj\Debug\netcoreapp3.1\diagonalNegativos.AssemblyInfoInputs.cache
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\obj\Debug\netcoreapp3.1\diagonalNegativos.AssemblyInfo.cs
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\obj\Debug\netcoreapp3.1\diagonalNegativos.csproj.CoreCompileInputs.cache
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\obj\Debug\netcoreapp3.1\diagonalNegativos.dll
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\obj\Debug\netcoreapp3.1\diagonalNegativos.pdb
+C:\Users\eduff\Desktop\Exercicios em C#\diagonalNegativos\diagonalNegativos\obj\Debug\netcoreapp3.1\diagonalNegativos.genruntimeconfig.cache

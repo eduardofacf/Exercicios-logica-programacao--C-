@@ -1,0 +1,13 @@
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\bin\Debug\netcoreapp3.1\menorDeTres.exe
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\bin\Debug\netcoreapp3.1\menorDeTres.deps.json
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\bin\Debug\netcoreapp3.1\menorDeTres.runtimeconfig.json
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\bin\Debug\netcoreapp3.1\menorDeTres.runtimeconfig.dev.json
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\bin\Debug\netcoreapp3.1\menorDeTres.dll
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\bin\Debug\netcoreapp3.1\menorDeTres.pdb
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\obj\Debug\netcoreapp3.1\menorDeTres.csprojAssemblyReference.cache
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\obj\Debug\netcoreapp3.1\menorDeTres.AssemblyInfoInputs.cache
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\obj\Debug\netcoreapp3.1\menorDeTres.AssemblyInfo.cs
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\obj\Debug\netcoreapp3.1\menorDeTres.csproj.CoreCompileInputs.cache
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\obj\Debug\netcoreapp3.1\menorDeTres.dll
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\obj\Debug\netcoreapp3.1\menorDeTres.pdb
+C:\Users\eduff\Desktop\Exercicios em C#\menorDeTres\menorDeTres\obj\Debug\netcoreapp3.1\menorDeTres.genruntimeconfig.cache

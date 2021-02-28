@@ -1,0 +1,12 @@
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\bin\Debug\netcoreapp3.1\idades.exe
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\bin\Debug\netcoreapp3.1\idades.deps.json
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\bin\Debug\netcoreapp3.1\idades.runtimeconfig.json
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\bin\Debug\netcoreapp3.1\idades.runtimeconfig.dev.json
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\bin\Debug\netcoreapp3.1\idades.dll
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\bin\Debug\netcoreapp3.1\idades.pdb
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\obj\Debug\netcoreapp3.1\idades.AssemblyInfoInputs.cache
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\obj\Debug\netcoreapp3.1\idades.AssemblyInfo.cs
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\obj\Debug\netcoreapp3.1\idades.csproj.CoreCompileInputs.cache
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\obj\Debug\netcoreapp3.1\idades.dll
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\obj\Debug\netcoreapp3.1\idades.pdb
+C:\Users\eduff\Desktop\Exercicios em C#\idades\idades\obj\Debug\netcoreapp3.1\idades.genruntimeconfig.cache
